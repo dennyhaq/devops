@@ -5,3 +5,6 @@ devops klowledgebase
 devops template  
 
 Technical skills include knowledge of programming languages, automation tools, containerization, cloud platforms, CI/CD pipelines, configuration management tools, and monitoring and logging tools. 
+------
+
+in this directory contain github action to build for go lang
