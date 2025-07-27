@@ -1,3 +1,3 @@
-module devops/main.go
+module github.com/dennyhaq/devops
 
 go 1.22
