@@ -1,4 +1,4 @@
-in this directory contain github action to build for go lang  
+This directory contains a GitHub Actions workflow to build a Go application.
 ==
 CI/CD github action  
 1. build go app
